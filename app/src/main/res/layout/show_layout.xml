@@ -6,8 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:text="@string/app_name"
+    android:text="哈罗！"
     android:textSize="30sp"
     android:textColor="#ff0000"
-    android:background="#0000ff"/>
+   />
 </LinearLayout>
