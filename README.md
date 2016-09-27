@@ -3,4 +3,5 @@
 
 
 **提交的时候写清楚提交时间跟姓名**
-https://github.com/songshuilin/AndroidFor36Ke/invitations
+
+>自己写的布局文件，代码，写好注释。。都是有什么功能。。。并且命名要规范点。
